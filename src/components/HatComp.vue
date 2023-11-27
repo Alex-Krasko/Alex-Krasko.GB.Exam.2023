@@ -6,7 +6,7 @@
         <p class="logo_txt">Interno</p>
       </div>
       <div class="menu">
-        <a href="/home" class="menu_el">Home</a>
+        <a href="/" class="menu_el">Home</a>
         <a href="/project" class="menu_el">Project</a>
         <a href="/blog" class="menu_el">Blog</a>
       </div>

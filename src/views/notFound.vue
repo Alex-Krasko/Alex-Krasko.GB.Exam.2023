@@ -4,7 +4,7 @@
             <p class="page404_title">404</p>
             <h1 class="page404_subtitle">We are sorry, but the page
                 you requested was not found</h1>
-            <a href="/home"><button class="page404_btn">Back To Home</button></a>
+            <a href="/"><button class="page404_btn">Back To Home</button></a>
         </div>
         <img class="page404_img" src="../../public/img/404/Photo.jpg" alt="Error_404">
     </div>

@@ -9,7 +9,7 @@
     </div>
     <div class="footer_blk_info pages">
       <p class="footer_blk_info_txt">Pages</p>
-      <a href="/home" class="footer_blk_info_txt">Home</a>
+      <a href="/" class="footer_blk_info_txt">Home</a>
       <a href="/project" class="footer_blk_info_txt">Project</a>
       <a href="/blog" class="footer_blk_info_txt">Blog</a>
 

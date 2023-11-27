@@ -10,36 +10,36 @@ import notFound from '../views/notFound.vue'
 Vue.use(VueRouter)
 
 const routes = [{
-        path: '/home',
-        name: 'home',
-        component: HomePage
-    },
-    {
-        path: '/project',
-        name: 'project',
-        component: ProjectPage
-    },
-    {
-        path: '/project_details',
-        name: 'project_details',
-        component: ProjectDetails
-    },
-    {
-        path: '/blog',
-        name: 'blog',
-        component: BlogPage,
-    },
-    {
-        path: '/blog_details',
-        name: 'blog_details',
-        component: BlogDetails
-    },
+    path: '/',
+    name: 'home',
+    component: HomePage
+},
+{
+    path: '/project',
+    name: 'project',
+    component: ProjectPage
+},
+{
+    path: '/project_details',
+    name: 'project_details',
+    component: ProjectDetails
+},
+{
+    path: '/blog',
+    name: 'blog',
+    component: BlogPage,
+},
+{
+    path: '/blog_details',
+    name: 'blog_details',
+    component: BlogDetails
+},
 
-    {
-        path: '/*',
-        name: '404',
-        component: notFound
-    },
+{
+    path: '/*',
+    name: '404',
+    component: notFound
+},
 ]
 
 const router = new VueRouter({
