@@ -1,6 +1,6 @@
 {
-  "name": "lesson_7",
-  "version": "0.1.0",
+  "name": "gb_exam_2023",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
